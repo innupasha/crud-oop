@@ -5,6 +5,7 @@ Hanya Untuk Media Belajar Saja dan Sebagai Tugas MK OOP Universitas Baturaja. Te
 <p><i>Fitur-Fitur:</i></p>
 -Login Member<br>
 -Logout Member<br>
+-Register Member<br>
 -Menambah Daftar Kontak<br>
 -Mengedit Daftar Kontak<br>
 -Menghapus Daftar Kontak<br>
