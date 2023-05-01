@@ -11,6 +11,7 @@ Hanya Untuk Media Belajar Saja dan Sebagai Tugas MK OOP Universitas Baturaja. Te
 -Menambah Daftar Kontak<br>
 -Validasi Data <br>
 -Membuat Direct Link WhatsApp <br>
-
+</p>
+</p>
 Untuk Demo hasil bisa dilihat disini ====> https://informatika-unbara.my.id/crud-oop
 
