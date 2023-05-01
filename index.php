@@ -24,7 +24,7 @@ $currentUser = $user->getUser();
   <meta name="description" content="">
   <meta name="author" content="">
   <link rel="icon"  a href="img/icon.png" type="image/gif" sizes="12x12">
-  <title>Wa-Link</title>
+  <title>Wa-Link OOP</title>
 
   <!-- Custom fonts for this template-->
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
