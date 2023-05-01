@@ -31,9 +31,10 @@ if(isset($_POST['kirim'])) {
     <meta charset="utf-8">
     <title>Register</title>
     <link rel="stylesheet" href="auth/style.css" media="screen" title="no title" charset="utf-8">
-
+    <link rel="icon"  a href="img/icon.png" type="image/gif" sizes="12x12">
 </head>
 <body>
+<div class="container">
 <div class="login-page">
     <div class="form">
         <form class="register-form" method="post">
@@ -55,6 +56,7 @@ if(isset($_POST['kirim'])) {
             <p class="message">Already registered? <a href="login.php">Sign In</a></p>
 
         </form>
+            </div>
     </div>
 </div>
 </body>
