@@ -33,9 +33,11 @@ if (isset($_POST['kirim'])) {
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="auth/style.css">
+    <link rel="icon"  a href="img/icon.png" type="image/gif" sizes="12x12">
     <title>Login CRUD OOP</title>
 </head>
 <body>
+<div class="container">
 <div class="login-page">
 
 <div class="form">
@@ -63,7 +65,7 @@ if (isset($_POST['kirim'])) {
     </form>
 
 </div>
-
+        </div>
 </div>
 
 </body>
